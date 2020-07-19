@@ -1,9 +1,9 @@
-#!name=TikTok
-#!desc=Unlock TikTok By wzw1997007
+#!name=Unlock TikTok KR
+#!desc=Make Your Day - By wzw1997007 & Choler
 #!system=ios
 
 [URL Rewrite]
-(?<=_region=)CN(?=&) JP 307
+(?<=_region=)CN(?=&) KR 307
 (?<=&app_version=)16..(?=.?.?&) 1 307
 (?<=\?version_code=)16..(?=.?.?&) 1 307
 
